@@ -1,12 +1,9 @@
-Camel Component Project
+ChatScript Component    
 ====================
-This Project is a template of a Camel component.
+Component helps to interact with ChatScript BOTs through Apache Camel framework.
 
-When you create a component project, you need to move the META-INF/services/org/apache/camel/component/${name}
-file to META-INF/services/org/apache/camel/component/foo where "foo" is the URI scheme for your component and any
-related endpoints created on the fly.
 
-For more help see the Apache Camel documentation:
-
-    http://camel.apache.org/writing-components.html
+Chat Script code:    https://github.com/bwilcox-1234/ChatScript
+    
+    
     
